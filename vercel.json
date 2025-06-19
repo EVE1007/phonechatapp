@@ -1,12 +1,4 @@
 {
-  "functions": {
-    "api/chat.js": {
-      "maxDuration": 30
-    },
-    "api/models.js": {
-      "maxDuration": 10
-    }
-  },
   "headers": [
     {
       "source": "/api/(.*)",
@@ -26,4 +18,4 @@
       ]
     }
   ]
-} 
+}
